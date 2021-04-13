@@ -1,6 +1,6 @@
 ## BREAST CANCER CLASSIFICATION
 
-<p align="center"><img src="https://github.com/sakshamji/End-to-End-Machine-Learning-Projects/blob/master/Breast%20Cancer%20Classification%20Project/static/4.PNG" height="200" width="200"></p>
+<p align="center"><img src="https://github.com/sakshamji/Breast-Cancer-Classification/blob/main/static/4.PNG" height="200" width="200"></p>
 
 ## Introduction
 
@@ -47,11 +47,11 @@ streamlit run main.py
 
 <h3>1. Data Description</h3>
 <h3>2. Checking Missing Values</h3>
-<img src="https://github.com/sakshamji/End-to-End-Machine-Learning-Projects/blob/master/Breast%20Cancer%20Classification%20Project/static/1.PNG">
+<img src="https://github.com/sakshamji/Breast-Cancer-Classification/blob/main/static/1.PNG">
 <h3>3. EDA</h3>
-<img src="https://github.com/sakshamji/End-to-End-Machine-Learning-Projects/blob/master/Breast%20Cancer%20Classification%20Project/static/2.PNG">
+<img src="https://github.com/sakshamji/Breast-Cancer-Classification/blob/main/static/2.PNG">
 <h3>4. Model training and performance</h3>
-<img src="https://github.com/sakshamji/End-to-End-Machine-Learning-Projects/blob/master/Breast%20Cancer%20Classification%20Project/static/3.PNG">
+<img src="https://github.com/sakshamji/Breast-Cancer-Classification/blob/main/static/3.PNG">
 
 ## Conclusion
 
